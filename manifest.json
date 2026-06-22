@@ -1,0 +1,23 @@
+{
+  "name": "Painel de Entregas - Blue Shop",
+  "short_name": "Entregas Blue",
+  "description": "Painel exclusivo para gerenciamento de entregas Blue Shop Express",
+  "start_url": "painel_entregas.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://complete-olive-ffsrxsmn.edgeone.app/iconedatela2%20.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://complete-olive-ffsrxsmn.edgeone.app/iconedatela2%20.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
